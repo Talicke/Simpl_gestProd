@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.gestProd.Data.Context.Contract\Api.gestProd.Data.Context.Contract.csproj" />
+    <ProjectReference Include="..\Api.gestProd.Data.Repository.Contract\Api.gestProd.Data.Repository.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

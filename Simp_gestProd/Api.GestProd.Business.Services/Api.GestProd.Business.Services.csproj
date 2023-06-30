@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.GestProd.Business.Dto\Api.GestProd.Business.Dto.csproj" />
+    <ProjectReference Include="..\Api.GestProd.Business.Mapper\Api.GestProd.Business.Mapper.csproj" />
+    <ProjectReference Include="..\Api.GestProd.Business.Services.Contract\Api.GestProd.Business.Services.Contract.csproj" />
+    <ProjectReference Include="..\Api.gestProd.Data.Repository.Contract\Api.gestProd.Data.Repository.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

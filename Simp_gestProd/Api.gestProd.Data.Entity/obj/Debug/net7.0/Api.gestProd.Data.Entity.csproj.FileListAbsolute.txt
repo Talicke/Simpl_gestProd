@@ -1,0 +1,14 @@
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\bin\Debug\net7.0\Api.gestProd.Data.Entity.deps.json
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\bin\Debug\net7.0\Api.gestProd.Data.Entity.runtimeconfig.json
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\bin\Debug\net7.0\Api.gestProd.Data.Entity.dll
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\bin\Debug\net7.0\Api.gestProd.Data.Entity.pdb
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\obj\Debug\net7.0\Api.gestProd.Data.Entity.csproj.AssemblyReference.cache
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\obj\Debug\net7.0\Api.gestProd.Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\obj\Debug\net7.0\Api.gestProd.Data.Entity.AssemblyInfoInputs.cache
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\obj\Debug\net7.0\Api.gestProd.Data.Entity.AssemblyInfo.cs
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\obj\Debug\net7.0\Api.gestProd.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\obj\Debug\net7.0\Api.gestProd.Data.Entity.dll
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\obj\Debug\net7.0\refint\Api.gestProd.Data.Entity.dll
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\obj\Debug\net7.0\Api.gestProd.Data.Entity.pdb
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\obj\Debug\net7.0\Api.gestProd.Data.Entity.genruntimeconfig.cache
+C:\Users\Taliq\OneDrive\Documents\Cours\Simplon\Brief\Système de gestion des produits pour un magasin en ligne\Simp_gestProd\Api.gestProd.Data.Entity\obj\Debug\net7.0\ref\Api.gestProd.Data.Entity.dll

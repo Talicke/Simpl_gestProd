@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.GestProd.Business.Services\Api.GestProd.Business.Services.csproj" />
+    <ProjectReference Include="..\Api.gestProd.Data.Context.Contract\Api.gestProd.Data.Context.Contract.csproj" />
+    <ProjectReference Include="..\Api.gestProd.Data.Context\Api.gestProd.Data.Context.csproj" />
+    <ProjectReference Include="..\Api.gestProd.Data.Repository.Contract\Api.gestProd.Data.Repository.Contract.csproj" />
+    <ProjectReference Include="..\Api.gestProd.Data.Repository\Api.gestProd.Data.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

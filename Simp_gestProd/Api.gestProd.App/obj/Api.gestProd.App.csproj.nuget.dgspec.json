@@ -1,0 +1,702 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.App\\Api.gestProd.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.App\\Api.gestProd.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.App\\Api.gestProd.App.csproj",
+        "projectName": "Api.gestProd.App",
+        "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.App\\Api.gestProd.App.csproj",
+        "packagesPath": "C:\\Users\\Taliq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taliq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services\\Api.GestProd.Business.Services.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services\\Api.GestProd.Business.Services.csproj"
+              },
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context.Contract\\Api.gestProd.Data.Context.Contract.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context.Contract\\Api.gestProd.Data.Context.Contract.csproj"
+              },
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context\\Api.gestProd.Data.Context.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context\\Api.gestProd.Data.Context.csproj"
+              },
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository.Contract\\Api.gestProd.Data.Repository.Contract.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository.Contract\\Api.gestProd.Data.Repository.Contract.csproj"
+              },
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository\\Api.gestProd.Data.Repository.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository\\Api.gestProd.Data.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Dto\\Api.GestProd.Business.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Dto\\Api.GestProd.Business.Dto.csproj",
+        "projectName": "Api.GestProd.Business.Dto",
+        "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Dto\\Api.GestProd.Business.Dto.csproj",
+        "packagesPath": "C:\\Users\\Taliq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taliq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Mapper\\Api.GestProd.Business.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Mapper\\Api.GestProd.Business.Mapper.csproj",
+        "projectName": "Api.GestProd.Business.Mapper",
+        "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Mapper\\Api.GestProd.Business.Mapper.csproj",
+        "packagesPath": "C:\\Users\\Taliq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taliq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Dto\\Api.GestProd.Business.Dto.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Dto\\Api.GestProd.Business.Dto.csproj"
+              },
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services.Contract\\Api.GestProd.Business.Services.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services.Contract\\Api.GestProd.Business.Services.Contract.csproj",
+        "projectName": "Api.GestProd.Business.Services.Contract",
+        "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services.Contract\\Api.GestProd.Business.Services.Contract.csproj",
+        "packagesPath": "C:\\Users\\Taliq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taliq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services\\Api.GestProd.Business.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services\\Api.GestProd.Business.Services.csproj",
+        "projectName": "Api.GestProd.Business.Services",
+        "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services\\Api.GestProd.Business.Services.csproj",
+        "packagesPath": "C:\\Users\\Taliq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taliq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Dto\\Api.GestProd.Business.Dto.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Dto\\Api.GestProd.Business.Dto.csproj"
+              },
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Mapper\\Api.GestProd.Business.Mapper.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Mapper\\Api.GestProd.Business.Mapper.csproj"
+              },
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services.Contract\\Api.GestProd.Business.Services.Contract.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.GestProd.Business.Services.Contract\\Api.GestProd.Business.Services.Contract.csproj"
+              },
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository.Contract\\Api.gestProd.Data.Repository.Contract.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository.Contract\\Api.gestProd.Data.Repository.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context.Contract\\Api.gestProd.Data.Context.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context.Contract\\Api.gestProd.Data.Context.Contract.csproj",
+        "projectName": "Api.gestProd.Data.Context.Contract",
+        "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context.Contract\\Api.gestProd.Data.Context.Contract.csproj",
+        "packagesPath": "C:\\Users\\Taliq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taliq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context\\Api.gestProd.Data.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context\\Api.gestProd.Data.Context.csproj",
+        "projectName": "Api.gestProd.Data.Context",
+        "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context\\Api.gestProd.Data.Context.csproj",
+        "packagesPath": "C:\\Users\\Taliq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taliq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context.Contract\\Api.gestProd.Data.Context.Contract.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context.Contract\\Api.gestProd.Data.Context.Contract.csproj"
+              },
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj",
+        "projectName": "Api.gestProd.Data.Entity",
+        "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj",
+        "packagesPath": "C:\\Users\\Taliq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taliq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository.Contract\\Api.gestProd.Data.Repository.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository.Contract\\Api.gestProd.Data.Repository.Contract.csproj",
+        "projectName": "Api.gestProd.Data.Repository.Contract",
+        "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository.Contract\\Api.gestProd.Data.Repository.Contract.csproj",
+        "packagesPath": "C:\\Users\\Taliq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taliq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Entity\\Api.gestProd.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository\\Api.gestProd.Data.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository\\Api.gestProd.Data.Repository.csproj",
+        "projectName": "Api.gestProd.Data.Repository",
+        "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository\\Api.gestProd.Data.Repository.csproj",
+        "packagesPath": "C:\\Users\\Taliq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taliq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context.Contract\\Api.gestProd.Data.Context.Contract.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Context.Contract\\Api.gestProd.Data.Context.Contract.csproj"
+              },
+              "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository.Contract\\Api.gestProd.Data.Repository.Contract.csproj": {
+                "projectPath": "C:\\Users\\Taliq\\OneDrive\\Documents\\Cours\\Simplon\\Brief\\Système de gestion des produits pour un magasin en ligne\\Simp_gestProd\\Api.gestProd.Data.Repository.Contract\\Api.gestProd.Data.Repository.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

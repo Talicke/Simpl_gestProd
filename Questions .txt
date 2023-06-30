@@ -1,0 +1,7 @@
+1. Il n'y as que nom, description, images, prix pour la visibilité du client ? oui
+2. une images peut être associé a plusieur produit ? non
+3. et t'il possible de supprimer un produit sinon de le désactivé du catalogue ? Désactivé le produit
+4. les variants du produits sont t'elle parametrable ? non
+5. les avis des client sont t'elle gerer en reponse a des messages, ou juste question reponse ? non
+
+6. les utilisateur doivent être connecter pour laisser un avis et commander. 
